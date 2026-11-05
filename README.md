@@ -1,7 +1,10 @@
 # Tunda Box — Junior Data Analyst Assessment
 
-**Author:** Esther Wambui Kafuko 
+
+**Author:** Esther Wambui Kafuko
+
 **Course & Cohort:** PLP Data Analytics (Cohort 7)  
+
 **Notebook File:** [`[tunda_box_assessment.ipynb](https://colab.research.google.com/drive/1e7-Hiv70XtQosCI77oaZBEWfekGWIhvE?usp=sharing)`](./[tunda_box_assessment.ipynb](https://colab.research.google.com/drive/1e7-Hiv70XtQosCI77oaZBEWfekGWIhvE?usp=sharing))  
 **Drive Reference Document: ** ( https://docs.google.com/document/d/1_0zZ4j2TrdIouSZGNnaR-vTAcOBhMFz4wDNb-2bgOuE/edit?usp=sharing )
 
